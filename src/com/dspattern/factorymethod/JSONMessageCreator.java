@@ -1,7 +1,7 @@
-package com.dspattern.factorymethod.factorymethod;
+package com.dspattern.factorymethod;
 
-import com.dspattern.factorymethod.factorymethod.message.JSONMessage;
-import com.dspattern.factorymethod.factorymethod.message.Message;
+import com.dspattern.factorymethod.message.JSONMessage;
+import com.dspattern.factorymethod.message.Message;
 
 /**
  * Provides implementation for creating JSON messages

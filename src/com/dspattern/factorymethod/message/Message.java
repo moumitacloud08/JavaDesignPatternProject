@@ -1,4 +1,4 @@
-package com.dspattern.factorymethod.factorymethod.message;
+package com.dspattern.factorymethod.message;
 
 /**
  * This class represents interface for our "product" which is a message

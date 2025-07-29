@@ -1,6 +1,6 @@
-package com.dspattern.factorymethod.factorymethod;
+package com.dspattern.factorymethod;
 
-import com.dspattern.factorymethod.factorymethod.message.Message;
+import com.dspattern.factorymethod.message.Message;
 
 public class Client {
 

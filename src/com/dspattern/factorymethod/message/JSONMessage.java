@@ -1,4 +1,4 @@
-package com.dspattern.factorymethod.factorymethod.message;
+package com.dspattern.factorymethod.message;
 
 public class JSONMessage extends Message {
 

@@ -1,4 +1,4 @@
-package com.dspattern.builder;
+package com.dspattern.builder.example1;
 
 //Interface implemented by "products"
 public interface UserDTO {
